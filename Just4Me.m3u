@@ -360,9 +360,9 @@ https://cityeden.catcast.tv/content/34100/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/trash.png" group-title="КИНО И СЕРИАЛЫ" description="МОЖЕТ НЕ РАБОТАТЬ С ВПН" ,TRASH HD
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/trash.png" group-title="КИНО И СЕРИАЛЫ" description="МОЖЕТ НЕ РАБОТАТЬ С ВПН" ,TRASH HD (⛔VPN)
 https://bstelevision.com/proxy.php?url=ru.hls.gd/ch730/mono.m3u8?token=ciber.v2_xtHodJPKw_WWPULfQOQJaddQIzUAnq2unW_MFaSBwg_hBWmP0pwDjp9hUNvtHr4_nLqe8INP
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" group-title="КИНО И СЕРИАЛЫ" description="МОЖЕТ НЕ РАБОТАТЬ С ВПН" ,VHS-KA
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" group-title="КИНО И СЕРИАЛЫ" description="МОЖЕТ НЕ РАБОТАТЬ С ВПН" ,VHS-KA (⛔VPN)
 https://bstelevision.com/proxy.php?url=sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EBX97N4T5NSSM33N49RSNKLN/5006/index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ" ,Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
@@ -783,7 +783,7 @@ https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=06
 
 
 
-#EXTINF:-1 tvg-logo="https://sun9-6.userapi.com/s/v1/ig1/9eKOsEjthLnjBqa5vv8vk3_Y6YThWa0S85YLtI1zxEg-E5hof1c_97dAFMW5QGUYed1RopmG.jpg?quality=96&crop=7,0,293,293&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&cs=240x240" group-title="ДЕТСКИЕ" description="МОЖЕТ НЕ РАБОТАТЬ С ВПН" ,FOX KIDS
+#EXTINF:-1 tvg-logo="https://sun9-6.userapi.com/s/v1/ig1/9eKOsEjthLnjBqa5vv8vk3_Y6YThWa0S85YLtI1zxEg-E5hof1c_97dAFMW5QGUYed1RopmG.jpg?quality=96&crop=7,0,293,293&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&cs=240x240" group-title="ДЕТСКИЕ" description="МОЖЕТ НЕ РАБОТАТЬ С ВПН" ,FOX KIDS (⛔VPN)
 https://bstelevision.com/proxy.php?url=foxkids.ms2020vv.workers.dev/hls/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-6.userapi.com/impg/_tXdPx-brAY7FP5h_6Au5hkoqU99b9eHsrLyFg/KXrbDwmf800.jpg?size=1000x667&quality=96&sign=2ee2398d83d485d0e7ba47d9b409307f&type=album" group-title="ДЕТСКИЕ" ,Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
