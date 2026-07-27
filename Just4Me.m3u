@@ -2,12 +2,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjC_HEyvY3_njESVjZ0RY_uXVuraXZ4CFi5KDBCYSkldyq-48fjL3Pw&s=10" group-title="TEST" ,Cartoon Network
+#EXTINF:-1 tvg-logo="https://sun9-6.userapi.com/impg/_tXdPx-brAY7FP5h_6Au5hkoqU99b9eHsrLyFg/KXrbDwmf800.jpg?size=1000x667&quality=96&sign=2ee2398d83d485d0e7ba47d9b409307f&type=album" group-title="TEST" ,Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdq6QlzA0QzL7pPwlPph-iCHJSfHE-AUWw2dmIDAmsEI_ofxYRVtrHlg&s=10" group-title="TEST" ,FOX KIDS
+#EXTINF:-1 tvg-logo="https://sun9-6.userapi.com/s/v1/ig1/9eKOsEjthLnjBqa5vv8vk3_Y6YThWa0S85YLtI1zxEg-E5hof1c_97dAFMW5QGUYed1RopmG.jpg?quality=96&crop=7,0,293,293&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&cs=240x240" group-title="TEST" ,FOX KIDS
 https://bstelevision.com/proxy.php?url=foxkids.ms2020vv.workers.dev/hls/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" group-title="TEST" ,Шокирующее HD
-https://list.iptvcat.com/my_list/s/ac978ccd698498c7fc46c137ee5ea548.m3u8
+https://s.pokaz.me/169/index.m3u8?k=1785168689p342i891i82i401S8629aa5489c01e5aa87b6ee784cd73df
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/trash.png" group-title="TEST" ,TRASH HD
 https://bstelevision.com/proxy.php?url=ru.hls.gd/ch730/mono.m3u8?token=ciber.v2_xtHodJPKw_WWPULfQOQJaddQIzUAnq2unW_MFaSBwg_hBWmP0pwDjp9hUNvtHr4_nLqe8INP
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" group-title="TEST" ,VHS-KA
