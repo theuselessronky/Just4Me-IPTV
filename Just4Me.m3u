@@ -2,9 +2,9 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9v8Llk2D_--VT_-y-qDkTBg75HlDRoQco5Tz7seOuTcVRaCdTOeiqEqk&s=10" group-title="TEST" ,Cartoon Network
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjC_HEyvY3_njESVjZ0RY_uXVuraXZ4CFi5KDBCYSkldyq-48fjL3Pw&s=10" group-title="TEST" ,Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZPrexZ0zqotvDqpKpkAaxPxaXl8Otu-SCgS5RTKEZIwrada_r3qU7dU&s=10" group-title="TEST" ,FOX KIDS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdq6QlzA0QzL7pPwlPph-iCHJSfHE-AUWw2dmIDAmsEI_ofxYRVtrHlg&s=10" group-title="TEST" ,FOX KIDS
 https://bstelevision.com/proxy.php?url=foxkids.ms2020vv.workers.dev/hls/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" group-title="TEST" ,Шокирующее HD
 https://list.iptvcat.com/my_list/s/ac978ccd698498c7fc46c137ee5ea548.m3u8
