@@ -2,6 +2,23 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9v8Llk2D_--VT_-y-qDkTBg75HlDRoQco5Tz7seOuTcVRaCdTOeiqEqk&s=10" group-title="TEST" ,Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZPrexZ0zqotvDqpKpkAaxPxaXl8Otu-SCgS5RTKEZIwrada_r3qU7dU&s=10" group-title="TEST" ,FOX KIDS
+https://bstelevision.com/proxy.php?url=foxkids.ms2020vv.workers.dev/hls/test/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" group-title="TEST" ,Шокирующее HD
+https://s.pokaz.me/SZgCraKLvWNSqNQpQWxVVA/169/1785163741/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/trash.png" group-title="TEST" ,TRASH HD
+https://bstelevision.com/proxy.php?url=ru.hls.gd/ch730/mono.m3u8?token=ciber.v2_xtHodJPKw_WWPULfQOQJaddQIzUAnq2unW_MFaSBwg_hBWmP0pwDjp9hUNvtHr4_nLqe8INP
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" group-title="TEST" ,VHS-KA
+https://bstelevision.com/proxy.php?url=sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EBX97N4T5NSSM33N49RSNKLN/5006/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-horror.png" group-title="TEST" ,FRESH HORROR
+https://tvcdnpotok.com/nFsodSOowxrRy3HWRm_2Qw/2067/1785164889/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/scream.png" group-title="TEST" ,SCREAM
+https://tvcdnpotok.com/Bm00Bt5fuP7Hm8me1kqtJw/247/1785165541/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="ОБЩИЕ" ,Суббота
 http://46.32.176.50/subbota/index.m3u8
