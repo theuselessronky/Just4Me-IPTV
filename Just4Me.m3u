@@ -2,16 +2,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://sun9-6.userapi.com/impg/_tXdPx-brAY7FP5h_6Au5hkoqU99b9eHsrLyFg/KXrbDwmf800.jpg?size=1000x667&quality=96&sign=2ee2398d83d485d0e7ba47d9b409307f&type=album" group-title="TEST" ,Cartoon Network
-http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://sun9-6.userapi.com/s/v1/ig1/9eKOsEjthLnjBqa5vv8vk3_Y6YThWa0S85YLtI1zxEg-E5hof1c_97dAFMW5QGUYed1RopmG.jpg?quality=96&crop=7,0,293,293&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&cs=240x240" group-title="TEST" ,FOX KIDS
-https://bstelevision.com/proxy.php?url=foxkids.ms2020vv.workers.dev/hls/test/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" group-title="TEST" ,Шокирующее HD
-https://s.ontivi.net/169/index.m3u8?k=1785169759p311i931i52i59Se613886d8ad26a22ca5a5f1c8afb84b2
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/trash.png" group-title="TEST" ,TRASH HD
-https://bstelevision.com/proxy.php?url=ru.hls.gd/ch730/mono.m3u8?token=ciber.v2_xtHodJPKw_WWPULfQOQJaddQIzUAnq2unW_MFaSBwg_hBWmP0pwDjp9hUNvtHr4_nLqe8INP
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" group-title="TEST" ,VHS-KA
-https://bstelevision.com/proxy.php?url=sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EBX97N4T5NSSM33N49RSNKLN/5006/index.m3u8
+https://s.ontivi.net/169/index.m3u8?k=1785169759p311i931i52i59Se613886d8ad26a22ca5a5f1c8afb84b2
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-horror.png" group-title="TEST" ,FRESH HORROR
 https://tvcdnpotok.com/nFsodSOowxrRy3HWRm_2Qw/2067/1785164889/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/scream.png" group-title="TEST" ,SCREAM
@@ -366,6 +360,10 @@ https://cityeden.catcast.tv/content/34100/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/trash.png" group-title="КИНО И СЕРИАЛЫ" ,TRASH HD
+https://bstelevision.com/proxy.php?url=ru.hls.gd/ch730/mono.m3u8?token=ciber.v2_xtHodJPKw_WWPULfQOQJaddQIzUAnq2unW_MFaSBwg_hBWmP0pwDjp9hUNvtHr4_nLqe8INP
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" group-title="КИНО И СЕРИАЛЫ" ,VHS-KA
+https://bstelevision.com/proxy.php?url=sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EBX97N4T5NSSM33N49RSNKLN/5006/index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ" ,Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ" ,Наше Новое Кино
@@ -785,6 +783,10 @@ https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=06
 
 
 
+#EXTINF:-1 tvg-logo="https://sun9-6.userapi.com/s/v1/ig1/9eKOsEjthLnjBqa5vv8vk3_Y6YThWa0S85YLtI1zxEg-E5hof1c_97dAFMW5QGUYed1RopmG.jpg?quality=96&crop=7,0,293,293&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&cs=240x240" group-title="ДЕТСКИЕ" ,FOX KIDS
+https://bstelevision.com/proxy.php?url=foxkids.ms2020vv.workers.dev/hls/test/index.m3u8
+#EXTINF:-1 tvg-logo="https://sun9-6.userapi.com/impg/_tXdPx-brAY7FP5h_6Au5hkoqU99b9eHsrLyFg/KXrbDwmf800.jpg?size=1000x667&quality=96&sign=2ee2398d83d485d0e7ba47d9b409307f&type=album" group-title="ДЕТСКИЕ" ,Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ" ,Бобер
 http://46.32.176.50/bobertv/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ" ,Солнце
