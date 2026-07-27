@@ -496,37 +496,27 @@ http://kinowalk.hopto.org/scripachtv_live
 https://kinostreammedia.hopto.org/SCRIPACHTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-81.vkuserphoto.ru/s/v1/ig2/r2O9W2LGPcSdapmrGCdRC6P9ldUhLloEOn8cksm_2Za5Q_YORZbPTM_TKghQ3RT6bkHBMfVMkVekjVPd8xjTdUuM.jpg?quality=95&as=32x30,48x45,72x67,108x101,160x149,240x224,360x336,441x412&from=bu&u=GAjWeUOhZ5IhnEFqvampvMmzYnkV4m2VbROMDRgFHcY&cs=441x0" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,NikNik-TV
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,KinoMix
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/121/128x128?unique=2026-07-24 07:18:08.849860&access_token=1d582dcd-0d9f-4ce7-94b9-b85a9f3c6825" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,KinoMix
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Disney XD
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/238/128x128?unique=2026-03-03 11:23:02.745062&access_token=6abc5b0d-19e2-4267-a48c-eab799077191" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Disney XD
 http://kinowalk.hopto.org/disneyxd_live
-#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/121/128x128?unique=2026-07-24 07:18:08.849860&access_token=1d582dcd-0d9f-4ce7-94b9-b85a9f3c6825" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Play 4 Fun
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/232/128x128?unique=2026-03-03 11:23:02.745062&access_token=d51627b4-7222-48a3-a991-1111fed44292" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Play 4 Fun
 http://kinowalk.hopto.org/play4fun_live
-#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/238/128x128?unique=2026-03-03 11:23:02.745062&access_token=6abc5b0d-19e2-4267-a48c-eab799077191" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Kycman
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/234/128x128?unique=2026-03-03 11:23:02.745062&access_token=784ff379-6d4c-4f30-a16b-2b8cccf7de95" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Kycman
 http://kinowalk.hopto.org/kycman_live
-#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/232/128x128?unique=2026-03-03 11:23:02.745062&access_token=d51627b4-7222-48a3-a991-1111fed44292" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,3JIou TaTapuH
-http://kinowalk.hopto.org/3jiou_tatapuh_live
-#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/234/128x128?unique=2026-03-03 11:23:02.745062&access_token=784ff379-6d4c-4f30-a16b-2b8cccf7de95" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,dj Zour
-http://kinowalk.hopto.org/zsmedia_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/203/128x128?unique=2026-02-24 17:40:47.422997&access_token=0b4aaf86-06ac-49d3-832e-1f54409ec935" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/122/128x128?unique=2026-02-20 01:57:49.533570&access_token=0951c630-f716-4483-8366-ffae49225224" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Video_Prokat
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/206/128x128?unique=2026-02-24 17:40:47.422997&access_token=57151376-0a1e-4bbb-958e-3fc45e2f2b28" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,У КРАЯ БЕЗДНЫ 24/7
 http://kinowalk.hopto.org/ddator_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,ZumiBox
-http://kinowalk.hopto.org/zumibox_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,VideoVk
-http://kinowalk.hopto.org/videovk_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,MAX
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/215/128x128?unique=2026-02-24 17:40:47.422997&access_token=29c6c26e-f6cc-4e76-a259-4b20a09c4491" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,MAX
 http://kinowalk.hopto.org/maximum_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,InMuNa Live
-http://kinowalk.hopto.org/inmuna_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Тоха Стрим
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/170/128x128?unique=2026-02-20 01:57:49.533570&access_token=d1125d21-53c0-4f17-88e7-9176f005aa22" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Тоха Стрим
 http://kinowalk.hopto.org/toxa_stream_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Solo ink
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/218/128x128?unique=2026-02-24 17:40:47.422997&access_token=f67f6256-bd3e-439b-93fd-6a635aa57fd4" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Solo ink
 http://kinowalk.hopto.org/soloink_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Егор Егорыч
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/219/128x128?unique=2026-07-23 16:39:04.724227&access_token=cf5c5b2b-3d45-492a-bd67-cb8b0f89396a" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Егор Егорыч
 http://kinowalk.hopto.org/yegor_yegorych_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/199/128x128?unique=2026-02-21 20:43:54.719669&access_token=4fffcc7c-c861-4f0c-91a5-a1418dff44c6" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,TopMoment LiVE
 http://kinowalk.hopto.org/topmomentlive_live
@@ -534,66 +524,59 @@ http://kinowalk.hopto.org/topmomentlive_live
 http://kinowalk.hopto.org/and7610_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/125/128x128?unique=2026-07-25 13:44:42.009275&access_token=34d5bab6-6672-4e67-8ba3-eac6b4a5b0b0" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,TimeToMovie
 http://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Blockbusters Time
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/126/128x128?unique=2026-02-20 01:57:49.533570&access_token=2a7cd4ef-01dc-448f-9d01-128118de1baa" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Blockbusters Time
 http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Dimpon TV
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/128/128x128?unique=2026-02-20 01:57:49.533570&access_token=e9fa9465-b97c-4a84-ae98-6ae20f110833" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Dimpon TV
 http://kinowalk.hopto.org/dimpon_live
-#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/136/128x128?unique=2026-02-20 01:57:49.533570&access_token=1d33d5f2-8488-4625-bdda-098f544bce49" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,SeleCaoTV
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/135/128x128?unique=2026-07-27 08:35:26.496944&access_token=313f9f43-066e-401a-9645-4dead7dddb50" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,SeleCaoTV
 http://kinowalk.hopto.org/selecaotv_live
-#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/136/128x128?unique=2026-02-20 01:57:49.533570&access_token=1d33d5f2-8488-4625-bdda-098f544bce49" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,SeleCaoTV1
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/135/128x128?unique=2026-07-27 08:35:26.496944&access_token=313f9f43-066e-401a-9645-4dead7dddb50" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,SeleCaoTV1
 http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,kinolampa
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/129/128x128?unique=2026-02-20 01:57:49.533570&access_token=0064eb47-e70b-4d33-81b1-84bd304fb41b" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,kinolampa
 http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,aleksey_24RUS
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/179/128x128?unique=2026-02-20 01:57:49.533570&access_token=25e4e035-148f-40a8-8026-e7fa708b4d3c" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,BOGI
 http://kinowalk.hopto.org/aleksey_24rus_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,VHS Forever
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/181/128x128?unique=2026-02-20 01:57:49.533570&access_token=a81ca619-cbf8-4dd0-bcd4-f69512a038b7" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,lampoTV
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18907130/avatar?change_time=1734455298" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,lampoTV
 http://kinowalk.hopto.org/lampotv_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,swat2k
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/185/128x128?unique=2026-02-20 01:57:49.533570&access_token=4aba44f6-7587-4ca4-a6d6-363908f56698" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,swat2k
 http://kinowalk.hopto.org/swat2k_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Wfliq
-http://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,ReanimatoR_VHS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpEMo9vAhDMy96MyOlOrJi6r7f0unSSB5AEtU8niVohRu_YNVVq5378-yY&s=10" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,ReanimatoR_VHS
 http://kinowalk.hopto.org/reanimator_vhs_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,КИНОУЖАС HD
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/151/128x128?unique=2026-02-20 01:57:49.533570&access_token=5c76ed5c-fee8-4365-be38-932b0a4288f3" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,КИНОУЖАС HD
 http://kinowalk.hopto.org/kinouzhas_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,ОсторожноМодерн
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/191/128x128?unique=2026-02-20 01:57:49.533570&access_token=02f463cf-9657-42e0-b756-f22e240371be" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,ОсторожноМодерн
 http://kinowalk.hopto.org/ostorozhnomodern2_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Video Serial
-http://kinowalk.hopto.org/videoserial_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,KINOХИТ HD
-http://kinowalk.hopto.org/4khits_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Тоха Киноман
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/154/128x128?unique=2026-02-20 01:57:49.533570&access_token=d9bdbd95-818b-47ce-afbb-f4b030cb55ed" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Тоха Киноман
 http://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Alex.Films
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/156/128x128?unique=2026-02-20 01:57:49.533570&access_token=b6fa67dd-5172-4283-9628-d86364b1fdcd" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Alex.Films
 http://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,BOSSFILM
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/334/128x128?unique=2026-07-23 16:58:59.944876&access_token=1b92d2a1-6bf0-4c84-9e72-19a1816d1b20" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,BOSSFILM
 http://kinowalk.hopto.org/bossfilm_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,ZubrilomFilm
-http://kinowalk.hopto.org/zubrilomfilm_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,JTX Online
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/160/128x128?unique=2026-02-20 01:57:49.533570&access_token=07a454fd-a3fc-4f16-8042-67fc431210e8" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,JTX Online
 http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,SerialTV
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/143/128x128?unique=2026-02-20 01:57:49.533570&access_token=7f24d00a-1b96-4adf-83f3-ca15905f92ff" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,SerialTV
 http://kinowalk.hopto.org/serialtv_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Мультфильмы 24/7
-http://kinowalk.hopto.org/mezontrop_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,TimeToHorror
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/124/128x128?unique=2026-07-25 13:44:26.077501&access_token=f037e8a6-3dab-48b7-916a-625f52c1c10e" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,TimeToHorror
 https://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,КАССЕТА
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/169/128x128?unique=2026-02-20 01:57:49.533570&access_token=4c27b016-2184-4577-8cc6-c670c1336db1" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,КАССЕТА
 https://kinowalk.hopto.org/kasseta_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Кинотека Full HD
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/177/128x128?unique=2026-02-20 01:57:49.533570&access_token=47c42de7-a71a-4cf9-8390-aa3f92f5aeb5" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,Кинотека Full HD
 https://kinowalk.hopto.org/kinoteka_full_hd_top_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,WFLIQ
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/187/128x128?unique=2026-02-20 01:57:49.533570&access_token=446ac72a-eb3b-4c09-b508-817873730086" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,WFLIQ
 https://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,FOX KIDS Remastered
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/190/128x128?unique=2026-02-20 01:57:49.533570&access_token=eba28ca5-036f-4ab2-ac1d-7509d56d18b6" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,FOX KIDS Remastered
 https://kinowalk.hopto.org/foxkids_remastered_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,VHS90e
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/202/128x128?unique=2026-02-21 20:44:21.583209&access_token=1895e10c-b884-45cf-b1e3-6e4d66617d8c" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,ЭРА VHS
 https://kinowalk.hopto.org/vhs90e_live
-#EXTINF:-1 group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,ВИДЕОКАССЕТА
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/303/128x128?unique=2026-05-22 10:23:31.311706&access_token=988ea5ef-296b-4c20-a38a-cb90605c7a89" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,КИНОМУЛЬТ HD
 https://kinowalk.hopto.org/kinomult_hd_live
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/web/image/320/128x128?unique=2026-06-25 10:27:19.568369&access_token=a1dc2036-1032-4c19-ae54-0f8cedab33b1" group-title="🏴‍☠️КИНОЗАЛЫ🏴‍☠️" ,RE_BOOT
+https://kinowalk.hopto.org/re_boot_live
+
 
 
 
