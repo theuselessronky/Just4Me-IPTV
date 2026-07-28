@@ -184,8 +184,6 @@ https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎶МУЗЫКА" ,СТВ  Музыка HD
 https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎶МУЗЫКА" ,ТНТ Music
-https://s.pokaz.me/535/index.m3u8?k=1785245269p311i931i52i59S75ca279085170976dde8b3368860c436
 #EXTINF:-1 group-title="🎶МУЗЫКА" ,Муз ТВ UZ
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎶МУЗЫКА" ,RU.TV
@@ -330,7 +328,7 @@ https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=wQ
 #EXTINF:-1 group-title="🎶МУЗЫКА" ,ММТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=zncMhHHO277vN_1fMlxieQ&e=2085053432&scheme=https
-#EXTINF:-1 group-title="🎶МУЗЫКА" ,ТНТ Music
+#EXTINF:-1 group-title="🎶МУЗЫКА" ,FON Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=ogwL2BCbJUtPZ3soSPIbwg&e=2085053431&scheme=https
 #EXTINF:-1 group-title="🎶МУЗЫКА" ,Смотри Радио
@@ -1245,7 +1243,7 @@ https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=6K
 #EXTINF:-1 group-title="👽RUTUBE" ,МузТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=Ktempxie2gDptHIconhaMg&e=2085053431&scheme=https
-#EXTINF:-1 group-title="👽RUTUBE" ,ТНТ Music
+#EXTINF:-1 group-title="👽RUTUBE" ,FON Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=ogwL2BCbJUtPZ3soSPIbwg&e=2085053431&scheme=https
 #EXTINF:-1 group-title="👽RUTUBE" ,ММТВ
