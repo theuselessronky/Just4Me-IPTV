@@ -6,13 +6,12 @@
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" group-title="TEST" ,Шокирующее HD
 https://s.pokaz.me/169/index.m3u8?k=1785243761p311i931i52i59Seee96d1f8ac32fdb00c448f1eb5af9ea
-
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-horror.png" group-title="TEST" ,FRESH HORROR
 https://tvcdnpotok.com/BpCiScZL6C5TYpz2X5R2wA/2067/1785244284/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/scream.png" group-title="TEST" ,SCREAM
 https://s.ontivi.net/247/index.m3u8?k=1785244599p311i931i52i59Sd17df2b18c00f28e0c298a099f36e9b4
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" group-title="TEST" ,Nickelodeon
-https://s.ontivi.net/155/index.m3u8?k=1785169662p311i931i52i59S68879a0bdd57876871788f1dddaed8ee
+https://s70378.cdn.ngenix.net/nickelodeon/2/index.m3u8
 
 
 
