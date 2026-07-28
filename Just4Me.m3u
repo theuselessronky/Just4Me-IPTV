@@ -1,10 +1,12 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
-
+
+
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" group-title="TEST" ,Шокирующее HD
-https://s.ontivi.net/169/index.m3u8?k=1785169759p311i931i52i59Se613886d8ad26a22ca5a5f1c8afb84b2
+https://s.pokaz.me/169/index.m3u8?k=1785243761p311i931i52i59Seee96d1f8ac32fdb00c448f1eb5af9ea
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-horror.png" group-title="TEST" ,FRESH HORROR
 https://tvcdnpotok.com/nFsodSOowxrRy3HWRm_2Qw/2067/1785164889/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/scream.png" group-title="TEST" ,SCREAM
